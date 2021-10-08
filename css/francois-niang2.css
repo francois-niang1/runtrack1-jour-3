@@ -1,0 +1,174 @@
+body{
+    background-color: rgb(104, 102, 102);
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.droite{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    width: 23%;
+    
+}
+img{
+
+}
+
+.gauche{
+    width: 77%;
+}
+.apparence {
+    width: 100%;
+    height: 40px;
+    border: solid black 2px;
+    text-align: center;
+    font-size: 25px;
+    background-color: rgba(165, 42, 42, 0.623);
+}
+.app{
+    font-size: 20px;
+    font-family: Georgia;
+    border: outset black 5px ;
+}
+.apparence2 {
+    width: 100%;
+    height: 40px;
+    border: solid black 2px;
+    text-align: center;
+    font-size: 25px;
+    background-color: rgba(165, 42, 42, 0.623);
+}
+.app2{
+    font-size: 20px;
+    font-family: Georgia;
+    border: outset black 5px ;
+}
+.text{
+    font-size: 20px;
+    font-family: Georgia;
+    border: outset black 5px ;
+}
+
+.photo{
+    width: 300px;
+    height: 300px;
+    border: solid black 2px;
+}
+
+.carac{
+    width: 300px;
+    height: 40px;
+    border: solid black 2px;
+    text-align: center;
+    font-size: 25px;
+    background-color: rgba(165, 42, 42, 0.623);
+}
+
+.info{
+    width: 300px;
+    height: 40px;
+    border: solid black 2px;
+    text-align: center;
+    font-size: 25px;
+    background-color: rgba(165, 42, 42, 0.623);
+}
+
+.element8{
+    text-align: center;
+    border: solid black 2px;
+    height: 40px;
+    width: 300px;
+    font-size: 30px;
+    background-color: rgba(165, 42, 42, 0.623);
+}
+
+.element1{
+    text-align: center;
+    border: solid black 2px;
+    height: 40px;
+    width: 300px;
+    font-size: 30px;
+    background-color: rgba(165, 42, 42, 0.623);
+}
+
+.element2{
+    border: solid black 2px;
+    width: 300px;
+    background-color: white;
+}
+
+.element{
+    border: solid black 2px;
+    width: 300px;
+    background-color: white;
+}
+
+.sen{
+    width: 20px;
+    height: 20px;
+}
+
+.viet{
+    width: 20px;
+    height: 20px;
+}
+
+.element{
+    border: solid black 2px;
+    width: 300px;
+    background-color: white;
+}
+
+.element3{
+    border: solid black 2px;
+    width: 300px;
+    background-color: white;
+}
+
+.element4{
+    border: solid black 2px;
+    width: 300px;
+    background-color: white;
+}
+
+.element5{
+    border: solid black 2px;
+    width: 300px;
+    background-color: white;
+}
+
+.element6{
+    border: solid black 2px;
+    width: 300px;
+    background-color: white;
+}
+
+.element7{
+    border: solid black 2px;
+    width: 300px;
+    background-color: white;
+}
+
+
+.element9{
+    border: solid black 2px;
+    width: 300px;
+    background-color: white;
+}
+
+.element10{
+    border: solid black 2px;
+    width: 300px;
+    background-color: white;
+}
+
+.element11{
+    border: solid black 2px;
+    width: 300px;
+    background-color: white;
+}

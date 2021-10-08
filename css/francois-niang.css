@@ -1,0 +1,46 @@
+.presentation{
+    color: black;
+    text-align: center;
+    font-family:Impact;
+    font-style: italic;
+    font-weight: 300;
+    text-shadow: 0 0 15px red;
+}
+
+body {
+    background-image: url(https://cdn.wallpapersafari.com/70/85/FPkNtD.jpg);
+}
+
+img{
+    width: 30%;
+    margin-left:35%; 
+    
+}
+
+img:hover {
+    transform: scaleX(-2);
+    filter: saturate(5);
+}
+
+p{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: blanchedalmond;
+}
+
+.texte{
+    border: 5px outset rgb(82, 2, 2);
+    background-color: rgba(0, 0, 0, 0.425);
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+.texte:hover{
+    background-color: rgba(255, 0, 0, 0.568);
+    background-image: url(https://images2.alphacoders.com/472/thumb-1920-472668.jpg);
+    text-shadow: 0 0 10px white;
+    font-style: italic;
+}
+
+
